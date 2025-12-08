@@ -1,0 +1,2 @@
+# Advent_of_code_2025
+My solutions to the Advent of Code 2025 written in Python and C++.
