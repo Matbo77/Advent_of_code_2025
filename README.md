@@ -8,3 +8,9 @@ Each folder contains:
 - The solution script
 - Test puzzle input
 - Real puzzle input
+
+
+To execute the C++ file:
+Open a terminal
+```shell g++ -g -o advent_of_code_day2 day2.cpp
+```shell ./advent_of_code_day2
