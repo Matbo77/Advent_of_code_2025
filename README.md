@@ -5,6 +5,6 @@ From day 1 to day 2 - (Work in progress)
 
 Each folder contains:
 
-# The solution script
-# Test puzzle input
-# Real puzzle input
+- The solution script
+- Test puzzle input
+- Real puzzle input
