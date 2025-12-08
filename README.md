@@ -12,6 +12,6 @@ Each folder contains:
 
 To execute the C++ file:
 - Open a terminal
-- ``` g++ -g -o advent_of_code_day2 day2.cpp ```
-- ``` ./advent_of_code_day2 ```
+- ``` g++ -g -o advent_of_code_dayX dayX.cpp ```
+- ``` ./advent_of_code_dayX ```
 
